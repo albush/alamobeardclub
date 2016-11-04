@@ -1,0 +1,39 @@
+baseurl = "http://alamobeardclub.com/"
+languageCode = "en-us"
+title = "Alamo Beard Club"
+theme = "hugo-steam-theme"
+# disqusShortname = ""
+paginate = 10
+
+[params]
+
+	title = "Alamo Beard Club"
+	subtitle = "The official site of the Alamo Beard Club"
+	copyright = "2016 Alamo Beard Club"
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "blue"
+	# Enable Google Analytics be inserting your tracking code
+	# googleAnalytics = ""
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Alamo Beard Club"
+	bio = "The Alamo Beard Club promotes facial hair, friendship, and the community of San Antonio."
+	description = "The Alamo Beard Club promotes facial hair, friendship, and the community of San Antonio."
+	location = "San Antonio, TX" # optional
+	twitter = "alamobeardclub" # optional
+	github = "albush/alamobeardclub" # optional
+ # 	gitlab = "" # optional
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs.
+	# comments = "disqus"
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
